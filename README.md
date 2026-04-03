@@ -125,10 +125,9 @@ classDiagram
 
 ## Видео
 
-
-```html
-<video src="example.mp4" controls width="720"></video>
-```
+<video src="example.mp4" controls width="720">
+  <a href="example.mp4">Открыть видео (MP4)</a>
+</video>
 
 ---
 
